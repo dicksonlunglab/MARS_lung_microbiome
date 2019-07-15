@@ -1,0 +1,123 @@
+specimen_ID_original	original_order	Patient_age_at_ICU_Admission	Patient_gender	Admission_type	Primary_specialty	Survival_status_30_day	APACHE_IV_Score	VFDandAlive	SOFA_total	ARDS	16S_copies	tissue_control	tissue_type	patient	day
+AE_1_S63	1											control	AE	1	XX
+AE_2_S64	2											control	AE	2	XX
+AE_3_S187	3											control	AE	3	XX
+AE_4_S188	4											control	AE	4	XX
+AE_5_S283	5											control	AE	5	XX
+AE_6_S284	6											control	AE	6	XX
+AE_7_S329	7											control	AE	7	XX
+AE_8_S330	8											control	AE	8	XX
+Empty1_S95	9											control	blank	1	XX
+Empty2_S96	10											control	blank	2	XX
+Empty3_S189	11											control	blank	3	XX
+Empty4_S190	12											control	blank	4	XX
+Empty5_S285	13											control	blank	5	XX
+Empty6_S286	14											control	blank	6	XX
+NL_1669_D0_S90	19	60	female	medical	neurosurgery	1	53	24	7	0	16761.39959	tissue	BAL	1669	D0
+NL_1722_D0_S55	22	63	female	medical	cardiology	1	37	27	0	0	17160.6636	tissue	BAL	1722	D0
+NL_1728_D0_S89	23	40	female	medical	gastroenterology	1	75	24	13	0	15571.66735	tissue	BAL	1728	D0
+NL_1768_D0_S57	27	74	female	surgical elective	general surgery	1	81	19	6	1	37108.47473	tissue	BAL	1768	D0
+NL_1770_D0_S92	28	61	female	medical	internal medicine	1	95	21	13	1	17270.20009	tissue	BAL	1770	D0
+NL_2173_D0_S218	35	53	male	medical	gastro-oncologic surgery	0	125	0	8	0	23717.41231	tissue	BAL	2173	D0
+NL_2176_D0_S211	37	84	male	medical	gastro-oncologic surgery	1	105	19	0	0	37509.03447	tissue	BAL	2176	D0
+NL_2221_D0_S257	41	63	female	medical	general surgery	1	101	25	12	0	13196.15936	tissue	BAL	2221	D0
+NL_2230_D0_S54	44	62	male	surgical emergency	ENT	1	66	26	7	0	809647.2168	tissue	BAL	2230	D0
+NL_2294_D0_S67	47	71	male	medical	cardiology	1	93	24	8	0	25093.58215	tissue	BAL	2294	D0
+NL_2297_D0_S212	49	38	male	surgical elective	head and neck surgery	1	30	18	5	0	28273.75285	tissue	BAL	2297	D0
+NL_2302_D0_S8	53	80	male	medical	internal medicine	1	81	25	3	0	17124.75586	tissue	BAL	2302	D0
+NL_2313_D0_S261	55	73	male	medical	general surgery	1	87	15	9	1	26269.93561	tissue	BAL	2313	D0
+NL_2328_D0_S103	59	23	male	medical	cardiology	1	58	20	9	0	13450.75989	tissue	BAL	2328	D0
+NL_2452_D0_S13	62	56	female	medical	neurology	1	67	25	9	0	14954.50179	tissue	BAL	2452	D0
+NL_2501_D0_S115	64	77	male	surgical emergency	cardiothoracic surgery	1	71	27	8	0	11073.09977	tissue	BAL	2501	D0
+NL_2510_D0_S119	65	63	male	surgical emergency	cardiology	1	44	27	0	0	60698.21676	tissue	BAL	2510	D0
+NL_2526_D0_S264	66	47	female	medical	general surgery	0	85	0	8	1	26543.9682	tissue	BAL	2526	D0
+NL_2536_D0_S85	67	77	female	medical	neurology	0	106	21	13	1	22471.38723	tissue	BAL	2536	D0
+NL_2687_D0_1_S70	76	79	male	surgical emergency	neurosurgery	1	79	24	0	0	23157.57116	tissue	BAL	2687	D0
+NL_2687_D0_2_S86	77	79	male	surgical emergency	neurosurgery	1	79	24	11	0	15482.03278	tissue	BAL	2687	D0
+NL_2730_D0_S123	78	63	female	medical	neurology	0	37	21	7	0	97387.08496	tissue	BAL	2730	D0
+NL_2747_D0_S77	82	55	female	surgical elective	general surgery	1	52	26	8	1	22699.31634	tissue	BAL	2747	D0
+NL_2783_D0_S116	84	70	female	surgical emergency	general surgery	1	65	26	8	0	11894.05314	tissue	BAL	2783	D0
+NL_2812_D0_S107	85	75	male	surgical emergency	general surgery	0	66	0	8	0	152080.0374	tissue	BAL	2812	D0
+NL_2815_D0_S229	86	42	male	medical	ENT	1	71	24	8	0	11039.45414	tissue	BAL	2815	D0
+NL_3003_D0_S254	89	76	female	medical	internal medicine	0	131	0	13	0	675391.4388	tissue	BAL	3003	D0
+NL_3071_D0_S280	96	73	male	medical	internal medicine	1	67	26	8	0	51103.68411	tissue	BAL	3071	D0
+NL_3149_D0_S21	97	72	female	medical	other/unknown	0	118	0	13	0	9305.811564	tissue	BAL	3149	D0
+NL_3155_D0_S241	101	52	male	medical	cardiology	1	75	24	8	1	17307.69094	tissue	BAL	3155	D0
+NL_3159_D0_S202	104	57	male	medical	cardiology	1	64	25	7	1	74887.82247	tissue	BAL	3159	D0
+NL_3165_D0_S27	106	61	male	medical	pulmonology	0	65	0	8	1	18334.15222	tissue	BAL	3165	D0
+NL_3232_D0_S251	108	37	male	medical	general surgery	1	76	26	0	0	92712.40234	tissue	BAL	3232	D0
+NL_3245_D0_S71	110	78	male	medical	general surgery	0	91	27	14	0	15525.64621	tissue	BAL	3245	D0
+NL_3299_D0_S131	112	24	male	surgical emergency	gastro-oncologic surgery	1	67	27	10	0	23104.71344	tissue	BAL	3299	D0
+NL_3356_D0_S29	113	81	male	medical	general surgery	1	98	25	8	0	16204.83081	tissue	BAL	3356	D0
+NL_3476_D0_S43	118	49	male	medical	gastroenterology	1	103	27	11	0	32278.77935	tissue	BAL	3476	D0
+NL_3508_D0_S171	119	53	male	surgical emergency	other/unknown	1	45	27	0	0	15874.1188	tissue	BAL	3508	D0
+NL_3547_D0_S269	120	48	male	medical	gastro-oncologic surgery	1	56	17	6	0	6328.938166	tissue	BAL	3547	D0
+NL_3748_D0_S172	128	76	male	medical	general surgery	0	119	0	12	1	26998.75514	tissue	BAL	3748	D0
+NL_3752_D0_S81	131	64	male	surgical emergency	neurosurgery	0	100	0	11	0	35053.85081	tissue	BAL	3752	D0
+NL_3769_D0_S157	135	92	male	medical	gastro-oncologic surgery	1	99	27	0	0	34482.91779	tissue	BAL	3769	D0
+NL_3818_D0_S250	136	61	female	surgical emergency	cardiology	0	124	0	13	1	104069.1528	tissue	BAL	3818	D0
+NL_3831_D0_S167	137	35	male	medical	internal medicine	0	56	27	7	0	15572.07998	tissue	BAL	3831	D0
+NL_3853_D0_S34	139	65	female	medical	cardiology	1	107	21	5	0	19898.02361	tissue	BAL	3853	D0
+NL_3944_D0_S244	141	68	male	medical	internal medicine	1	90	27	10	0	7227.69928	tissue	BAL	3944	D0
+NL_3964_D0_S160	143	63	male	surgical emergency	neurology	1	103	23	7	0	30675.60196	tissue	BAL	3964	D0
+NL_3997_D0_S36	146	56	male	surgical elective	head and neck surgery	1	40	23	6	0	67616.33555	tissue	BAL	3997	D0
+NL_4007_D0_S179	150	64	female	medical	internal medicine	0	114	0	0	1	36447.34701	tissue	BAL	4007	D0
+NL_4027_D0_S80	151	74	female	medical	pulmonology	1	67	7	3	1	38954.79838	tissue	BAL	4027	D0
+NL_4077_D0_S97	155	69	male	surgical emergency	neurosurgery	1	63	26	0	0	95620.81655	tissue	BAL	4077	D0
+NL_4132_D0_S237	157	41	female	medical	cardiology	0	148	0	16	0	29121.04289	tissue	BAL	4132	D0
+NL_4156_D0_S3	158	65	female	medical	neurology	1	95	26	9	0	10154.33693	tissue	BAL	4156	D0
+NL_4195_D0_S7	159	67	female	medical	pulmonology	1	40	27	6	0	16070.63166	tissue	BAL	4195	D0
+NL_4350_D0_S209	167	57	female	surgical emergency	cardiothoracic surgery	1	24	23	3	0	54470.96507	tissue	BAL	4350	D0
+NL_4372_D0_S210	170	67	male	medical	haematology	0	67	0	9	0	30500	tissue	BAL	4372	D0
+NL_4398_D0_S277	172	76	male	medical	cardiology	1	91	25	5	0	19913.17908	tissue	BAL	4398	D0
+NL_4411_D0_S47	174	79	male	surgical emergency	cardiothoracic surgery	1	116	26	14	0	12395.31835	tissue	BAL	4411	D0
+NL_4455_D0_S46	175	67	male	medical	cardiology	1	92	26	6	0	15115.66035	tissue	BAL	4455	D0
+NL_4531_D0_S78	177	35	male	surgical emergency	neurosurgery	1	65	24	7	0	13927.03756	tissue	BAL	4531	D0
+NL_4545_D0_S83	178	60	male	surgical emergency	neurosurgery	0	96	0	3	0	32934.59892	tissue	BAL	4545	D0
+NL_4550_D0_S246	180	72	female		cardiology	0	NA	0	0	0	34673.33333	tissue	BAL	4550	D0
+NL_4576_D0_S45	186	29	female	medical	neurosurgery	1	75	25	7	1	21246.12172	tissue	BAL	4576	D0
+NL_4583_D0_S233	187	82	female	medical	cardiology	0	57	0	6	0	77709.94059	tissue	BAL	4583	D0
+NL_4635_D0_S220	189	66	female	medical	neurosurgery	0	117	0	0	0	27655.63647	tissue	BAL	4635	D0
+NL_4684_D0_S66	190	50	female	medical	cardiology	1	97	26	8	0	21207.22453	tissue	BAL	4684	D0
+NL_4719_D0_S224	191	39	female	medical	internal medicine	1	50	26	6	0	23904.72158	tissue	BAL	4719	D0
+NL_4757_D0_S242	199	69	female	medical	neurology	1	72	27	1	0	18051.75018	tissue	BAL	4757	D0
+NL_4767_D0_S174	200	61	male	medical	cardiology	0	84	0	6	0	9662.862142	tissue	BAL	4767	D0
+NL_4769_D0_S170	201	71	male	medical	cardiology	1	69	27	7	0	21862.40641	tissue	BAL	4769	D0
+NL_4785_D0_S159	202	54	female	medical	internal medicine	1	121	17	12	1	38060.30528	tissue	BAL	4785	D0
+NL_4817_D0_S176	206	76	male	medical	pulmonology	1	92	27	7	0	22027.42004	tissue	BAL	4817	D0
+NL_4874_D0_S205	208	66	male	medical	pulmonology	1	44	26	8	0	13560.96903	tissue	BAL	4874	D0
+NL_4924_D0_S204	211	44	male	medical	neurology	1	59	26	13	0	12422.58581	tissue	BAL	4924	D0
+NL_4982_D0_S228	216	48	female	medical	cardiology	1	153	7	10	0	18216.55528	tissue	BAL	4982	D0
+NL_5008_D0_S195	220	78	male	surgical emergency	neurosurgery	0	139	0	12	0	14454.73194	tissue	BAL	5008	D0
+NL_5091_D0_S152	226	57	male	medical	general surgery	1	81	22	9	0	10797.84902	tissue	BAL	5091	D0
+NL_5097_D0_S153	228	49	male	medical	neurology	0	93	0	5	0	13716.57372	tissue	BAL	5097	D0
+NL_5268_D0_S231	234	48	male	medical	cardiology	1	92	22	5	0	32965.91187	tissue	BAL	5268	D0
+NL_5472_D0_S147	239	87	female	medical	cardiology	0	118	25	7	0	11022.09345	tissue	BAL	5472	D0
+NL_5536_D0_S14	241	19	female	medical	neurology	1	91	25	6	0	17346.59322	tissue	BAL	5536	D0
+NL_5671_D0_S76	244	65	male	medical	cardiology	1	62	27	6	1	18460.64885	tissue	BAL	5671	D0
+NL_5675_D0_S25	245	67	female	medical	cardiology	1	54	27	7	0	22799.81995	tissue	BAL	5675	D0
+NL_5820_D0_S22	247	60	male	medical	cardiology	1	93	26	0	0	15427.31497	tissue	BAL	5820	D0
+NL_6069_D0_S136	251	66	male	medical	general surgery	0	135	0	16	1	6713947.917	tissue	BAL	6069	D0
+NL_6227_D0_S18	252	53	male	medical	neurology	0	113	19	6	0	68538.94552	tissue	BAL	6227	D0
+NL_6358_D0_S235	260	68	female	medical	internal medicine	NA	77	24	6	0	34749.00818	tissue	BAL	6358	D0
+NL_6414_D0_S240	261	64	male	surgical emergency	general surgery	0	149	19	11	0	15877.41597	tissue	BAL	6414	D0
+NL_6436_D0_S73	265	54	male	medical	cardiology	NA	44	24	4	0	20310.24138	tissue	BAL	6436	D0
+NL_6507_D0_S149	268	24	female	surgical emergency	gastro-oncologic surgery	NA	61	25	10	0	21177.22956	tissue	BAL	6507	D0
+NL_6711_D0_S150	273	50	male	medical	cardiology	NA	63	25	8	0	20418.63632	tissue	BAL	6711	D0
+NL_IsoCtrl_1_S39	276											control	isolat	2	XX
+NL_IsoCtrl_3_S125	277											control	isolat	3	XX
+NL_IsoCtrl_4_S126	278											control	isolat	4	XX
+NL_IsoCtrl_5_S255	279											control	isolat	5	XX
+NL_IsoCtrl_6_S256	280											control	isolat	6	XX
+NL_IsoCtrl_7_S270	281											control	isolat	7	XX
+NL_IsoCtrl_8_S281	282											control	isolat	8	XX
+NL_IsoCtrl_9_S282	283											control	isolat	9	XX
+NL_Iso_Ctrl_2_S40	284											control	isolat	1	XX
+WATER_NEG_PLATEA_S94	285											control	water	1	XX
+WATER_NEG_PLATEB_S192	286											control	water	2	XX
+WATER_NEG_PLATEC_S288	287											control	water	3	XX
+WATER_NEG_PLATED_S342	288											control	water	4	XX
+ZYMO_MOCK_POS_PLATEA_S93	289											mock	mock	1	XX
+ZYMO_MOCK_POS_PLATEB_S191	290											mock	mock	2	XX
+ZYMO_MOCK_POS_PLATEC_S287	291											mock	mock	3	XX
+ZYMO_MOCK_POS_PLATED_S341	292											mock	mock	4	XX
